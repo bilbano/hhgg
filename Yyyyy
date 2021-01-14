@@ -10,4 +10,6 @@ http://45.127.244.7:8080/hls/channel7.m3u8
 #EXTM3U
 #EXTINF:1  , SONY LIV
 https://sonydai.akamaized.net/hls/live/2022320/DAI16ME/master.m3u8?hdnea=exp=1610568599~acl=/*~id=190327121978844931~hmac=51d57dcc6542e473c07575fd1ae0d873fa7e58601c9ce7713fc06abd3edfb0f6&originpath=/linear/hls/pb/event/xnt11g3ITBetU97WxbV3uw/stream/2bcb1e1d-7853-41bc-967c-110167e0db1a:SIN/master.m3u8
-
+#EXTM3U
+#EXTINF:1  , SONY LIV 1
+https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1610642641~acl=/*~id=190327121978844931~hmac=6b80b1353900ab3ace53068af55e468af9b576ad1f347293f30ab2683f76ec8c
