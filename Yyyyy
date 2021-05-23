@@ -1,3 +1,8 @@
 #EXTM3U
 #EXTINF:1  , T SPORT
-https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=200000,RESOLUTION=256x144,NAME=144p
+CJV0DSAWS5_1308da05-caa4-4424-b976-800ca12a260c_lowest/manifest.m3u8
+
+
+
+
