@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  , T SPORT
-http://103.205.133.19/hls/tsports.m3u8
+https://streamcdn.getloconow.com/EIIK3FMNK3_90fabc98-7c26-41e3-a326-46c1d01d1746/manifest.m3u8
 #EXTM3U
 #EXTINF:1  , willow 
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v2a1/mono.m3u8
