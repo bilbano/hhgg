@@ -6,7 +6,7 @@ http://103.205.133.19/hls/tsports.m3u8
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v2a1/mono.m3u8
 #EXTM3U
 #EXTINF:1  , willow 2
-https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
+https://atc.hopto.org/Cricket-Willow-Quality/index.m3u8
 #EXTM3U
 #EXTINF:1  , t sports2
 https://streamcdn.getloconow.com/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560/CJV0DSAWS5_99be21ed-3ded-45a8-897d-726fecac6560_hi/manifest.m3u8
